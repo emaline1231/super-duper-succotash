@@ -8,3 +8,6 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+- [x] Boop her nose
+- [ ] Smoosh her cheeks
+- [ ] Kiss her little head

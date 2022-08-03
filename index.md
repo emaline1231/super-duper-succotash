@@ -4,3 +4,7 @@
 
 ## I hope Pippa knows she is good
 
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
